@@ -18,7 +18,7 @@ non-deterministic dependency safe to ship.
 
 ### Stack
 
-`PHP` `Laravel` `Python` `Django` `DRF` `Celery` `Vue 3` `JavaScript` `PostgreSQL` `pgvector` `MySQL` `Redis` `Docker` `GitHub Actions` `PHPUnit` `pytest`
+`PHP` `Laravel` `Python` `Django` `DRF` `Celery` `Vue 3` `React` `JavaScript` `Typescript` `PostgreSQL` `pgvector` `MySQL` `Redis` `Docker` `GitHub Actions` `PHPUnit` `pytest`
 
 ---
 
@@ -43,5 +43,5 @@ remote work with EU/US teams.
 ### Reach me
 
 - 📧 [[touseefktk22@gmail.com]]
-- 💼 [LinkedIn](https://linkedin.com/in/[[handle]])
+- 💼 [LinkedIn](https://www.linkedin.com/in/touseef-ahmad-pk/)
 - 🌐 [touseef.digitalkarvan.com](https://touseef.digitalkarvan.com)
