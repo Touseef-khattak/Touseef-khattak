@@ -42,6 +42,6 @@ remote work with EU/US teams.
 
 ### Reach me
 
-- 📧 [touseefktk22@gmail.com]
+- 📧 touseefktk22@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/touseef-ahmad-pk/)
 - 🌐 [touseef.digitalkarvan.com](https://touseef.digitalkarvan.com)
