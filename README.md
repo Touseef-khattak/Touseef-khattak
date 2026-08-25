@@ -13,7 +13,7 @@ non-deterministic dependency safe to ship.
 
 - **Backend** — Laravel/PHP, Nest and Django/DRF APIs, queues and background jobs, multi-tenant apps, Postgres/MySQL schema design
 - **AI integration** — Claude & OpenAI APIs, hybrid retrieval (dense + BM25), SSE token streaming, prompt/eval pipelines, per-request cost tracking
-- **Frontend** — React, Vue 3, Inertia/Livewire, Tailwind
+- **Frontend** — Angular, Next, Vue 3, Inertia/Livewire, Tailwind
 - **Leading** — I run a small AI team: scoping, code review, and unblocking people
 
 ### Stack
